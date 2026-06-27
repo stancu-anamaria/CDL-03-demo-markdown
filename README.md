@@ -10,7 +10,7 @@ Also create a `Makefile` to build the program.
 
 Start from the following skeleton:
 
-```C=
+```C
 #include <stdio.h>
 int main(void)
 {
@@ -35,7 +35,7 @@ To test, run:
 
 ## Bonus: Python
 
-```py=
+```py
 import sys
 
 def main():
